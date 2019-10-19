@@ -2,6 +2,6 @@ pool:
   vmImage: 'Ubuntu-16.04'
 stages:
 - stage: A
-jobs:
+  jobs:
   - job: A1
   - job: A2
